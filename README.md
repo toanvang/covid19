@@ -14,7 +14,7 @@ The project is created with:
 
 The code is written dynamically to give you the most up to date visualization when it is compiled.  
 
-The provided data only has cases and deaths number for the counties. This raw dataset is transformed to represent the states and the US with added daily cases, daily death, and fatality rate columns. Cruise ships, and region that is not in the continental US are not considered for the data.
+The provided data only has cases and deaths number for the counties. This raw dataset is transformed to represent the states and the US with added daily cases, daily death, and fatality rate columns. Cruise ships, and region that are not in the continental US are not considered for the data.
 
 ## Data Processing (Pandas DataFrame)
 * Merge raw cases and deaths data into one dataframe
