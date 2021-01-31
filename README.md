@@ -1,5 +1,6 @@
 ## Covid-19
 Data visualization project of Covid-19 virus for the continental US.
+
 Source: [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
 
 View this project [HERE](https://toanvang.github.io/covid19/)
